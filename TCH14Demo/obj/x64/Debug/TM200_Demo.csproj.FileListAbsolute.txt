@@ -1,0 +1,161 @@
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.exe.config
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.exe
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.pdb
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.English.resources
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.MainWindow.resources
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.Properties.Resources.resources
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.SimpChinese.resources
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.exe
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.pdb
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.exe.config
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.exe
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.pdb
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.English.resources
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.MainWindow.resources
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.Properties.Resources.resources
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\DisDemo.SimpChinese.resources
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.Cache
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.exe
+F:\CompanyFile\TM_Series\Modify\DisDemo_CS_CH(20220623)\DisDemo_CS_CH\DisDemo\bin\x64\Debug\DisDemo.pdb
+F:\CompanyFile\TM_Series\TM600\DisDemo_CS_CH\DisDemo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.Cache
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe.config
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.pdb
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.English.resources
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.MainWindow.resources
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.Properties.Resources.resources
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.SimpChinese.resources
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.Cache
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.exe
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.pdb
+F:\CompanyFile\TM_Series\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csprojResolveAssemblyReference.cache
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe.config
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.exe
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.pdb
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.pdb
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csprojResolveAssemblyReference.cache
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.English.resources
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.MainWindow.resources
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.Properties.Resources.resources
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.SimpChinese.resources
+F:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.Cache
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe.config
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.exe
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.pdb
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.exe
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\bin\x64\Debug\TM200Demo.pdb
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.English.resources
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.MainWindow.resources
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.Properties.Resources.resources
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200Demo.SimpChinese.resources
+I:\CompanyFile\TM_Series\C#\TM600\TM200_Demo_CS_CH\TM200Demo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.Cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.exe.config
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.exe
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.pdb
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Abstractions.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Container.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.EntityFramework.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\EntityFramework.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Memory.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\ZstdSharp.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\BouncyCastle.Cryptography.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Buffers.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.IO.Pipelines.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.pdb
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.dll.config
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Abstractions.pdb
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Container.pdb
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.EntityFramework.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\EntityFramework.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.pdb
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Memory.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\BouncyCastle.Cryptography.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Buffers.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.IO.Pipelines.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.AssemblyReference.cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.SuggestedBindingRedirects.cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.exe.config
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.English.resources
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.MainWindow.resources
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.Properties.Resources.resources
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.SimpChinese.resources
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.CoreCompileInputs.cache
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.Up2Date
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.exe
+D:\AK-203\TCH14_V3.02 (C# 202240429)\TCH14_V3.02 (C# 202240429)\SourceCode\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.exe.config
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.exe
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\TM200Demo.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Abstractions.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Container.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\ZstdSharp.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\AK203.Repository.dll.config
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Abstractions.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Unity.Container.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\MySql.Data.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.exe.config
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.English.resources
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.MainWindow.resources
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.Properties.Resources.resources
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.SimpChinese.resources
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200_Demo.csproj.Up2Date
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.exe
+C:\Users\DELL\Downloads\TCH14_Demo_CS_CH\TCH14_Demo_CS_CH\TCH14Demo\obj\x64\Debug\TM200Demo.pdb
